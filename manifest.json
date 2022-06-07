@@ -1,0 +1,15 @@
+{
+  "name": "Notebook",
+  "short_name": "Notebook",
+  "start_url": "/notebook-template/",
+  "scope": "/notebook-template/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/notebook-template/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
