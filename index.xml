@@ -7,21 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://cdu-data-science-team.github.io/the-cdu-way/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Etiquette</title>
+      <link>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/etiquette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/etiquette/</guid>
+      <description>Diary management #   Put meetings in your diary, including personal things that happen during daytime (you can use personal) It should always be as up to date as possible but at least make sure when the week starts before our team meeting it is accurate as can be Everyone in the team should be able to view everyone else&amp;rsquo;s diary Accept or decline meetings. Use Tentative sparingly- seeing tentative across the diary all the time is confusing Select the appropriate busy/free status with the consideration how it impacts teams (out of office is good for showing away from computer for example for personal calls etc)  Booking meetings #   Where known consider people’s working patterns Check diaries, most people you can see some free/busy options Some people’s diaries are particularly chaotic.</description>
+    </item>
+    
+    <item>
       <title>Subsection 1</title>
       <link>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/subection_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/subection_1/</guid>
       <description>Subsection 3 #  This is a subsection of chapter one</description>
-    </item>
-    
-    <item>
-      <title>Subsection 1</title>
-      <link>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/subection_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/subection_1/</guid>
-      <description>Subsection 1 #  This is a subsection of chapter one</description>
     </item>
     
     <item>
@@ -43,21 +43,22 @@
     </item>
     
     <item>
+      <title>Regular meetings</title>
+      <link>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/regular_meetings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/regular_meetings/</guid>
+      <description>This section concerns regular meetings, which comprise:
+ Monday standup, one hour Monday morning with all team members Code review/ team time, one hour every second Friday with all team members Management supervision (1 : 1) meetings  </description>
+    </item>
+    
+    <item>
       <title>Subsection 2</title>
       <link>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/subection_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/subection_2/</guid>
       <description>Subsection 2 #  This is a subsection of chapter three</description>
-    </item>
-    
-    <item>
-      <title>Subsection 2</title>
-      <link>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/subection_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/subection_2/</guid>
-      <description>Subsection 2 #  This is a subsection of chapter one</description>
     </item>
     
     <item>
