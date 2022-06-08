@@ -1,6 +1,6 @@
 ---
-title: "Chapter 2"
-weight: 1
+title: "Openness and licensing"
+weight: 2
 bookCollapseSection: true
 # bookFlatSection: false
 # bookToc: true

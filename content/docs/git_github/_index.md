@@ -1,6 +1,6 @@
 ---
-title: "Chapter 3"
-weight: 1
+title: "Git, GitHub, and collaboration"
+weight: 3
 bookCollapseSection: true
 # bookFlatSection: false
 # bookToc: true
