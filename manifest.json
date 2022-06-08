@@ -1,14 +1,14 @@
 {
   "name": "Notebook",
   "short_name": "Notebook",
-  "start_url": "/notebook-template/",
-  "scope": "/notebook-template/",
+  "start_url": "/the-cdu-way/",
+  "scope": "/the-cdu-way/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/notebook-template/favicon.svg",
+      "src": "/the-cdu-way/favicon.svg",
       "sizes": "512x512"
     }
   ]

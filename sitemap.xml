@@ -2,36 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_1/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_2/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/r_develolpment/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_3/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/openness_licensing/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_1/subection_1/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_2/subection_1/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/subection_1/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_3/subection_1/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/subection_1/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_1/subection_2/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/openness_licensing/subection_1/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_2/subection_2/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/r_develolpment/subection_1/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_3/subection_2/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/subection_2/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_1/subection_3/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/subection_2/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_2/subection_3/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/openness_licensing/subection_2/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/chapter_3/subection_3/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/r_develolpment/subection_2/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/categories/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/git_github/subection_3/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/docs/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/subection_3/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/openness_licensing/subection_3/</loc>
   </url><url>
-    <loc>https://cdu-data-science-team.github.io/notebook-template/tags/</loc>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/r_develolpment/subection_3/</loc>
+  </url><url>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/categories/</loc>
+  </url><url>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/</loc>
+  </url><url>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/tags/</loc>
+  </url><url>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/</loc>
   </url>
 </urlset>
