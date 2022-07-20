@@ -15,9 +15,9 @@ Alongside the trust tools such as email and MS Teams the team uses the NHS-R sla
 
 One of the ways we celebrate each other and the successes we have is by presenting each other with a “trophy” in the slack channel. This is for good code, problem solving, anything that deserves a special mention.
 
-![Trophy 1](trophy1.png)
-![Trophy 2](trophy2.png)
-![Trophy 3](trophy3.png)
+![Trophy 1](images/trophy1.png)
+![Trophy 2](images/trophy2.png)
+![Trophy 3](images/trophy3.png)
 
 ## Birthdays
 
