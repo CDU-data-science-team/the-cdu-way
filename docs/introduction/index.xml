@@ -6,15 +6,5 @@
     <description>Recent content in Introduction on Notebook</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://cdu-data-science-team.github.io/the-cdu-way/docs/introduction/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Communication</title>
-      <link>https://cdu-data-science-team.github.io/the-cdu-way/docs/introduction/communication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cdu-data-science-team.github.io/the-cdu-way/docs/introduction/communication/</guid>
-      <description>Alongside the trust tools such as email and MS Teams the team uses the NHS-R slack for communication thing. We have our own channel (private). This can be used for general work enquires but is also used much more casually. It is an acceptable way to communicate things like sickness of last-minute absence. We do have a team email which we have for things like arranging UYD meetings.
-Data Science Trophy #  One of the ways we celebrate each other and the successes we have is by presenting each other with a “trophy” in the slack channel.</description>
-    </item>
-    
   </channel>
 </rss>
