@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/introduction/</loc>
+  </url><url>
     <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/r_develolpment/</loc>
+  </url><url>
+    <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/introduction/communication/</loc>
   </url><url>
     <loc>https://cdu-data-science-team.github.io/the-cdu-way/docs/meetings_appraisals/etiquette/</loc>
   </url><url>
