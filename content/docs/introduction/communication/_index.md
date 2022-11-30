@@ -25,4 +25,4 @@ We don’t buy gifts for each other within the team, but we do like a good excus
 
 ## Christmas
 
-For Christmas we do like to have a get together virtually, traditionally will involve some kind of silly dress code and be a time to get together. There will often be a quiz or other type of game.
+For Christmas we do like to have a get together virtually, traditionallcd //y will involve some kind of silly dress code and be a time to get together. There will often be a quiz or other type of game.
